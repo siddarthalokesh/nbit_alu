@@ -28,10 +28,10 @@ The ALU performs arithmetic, logical, shift, and comparison operations based on 
 | --- | ------ | -------------------------------- |
 | 0x0 | 0000   | ADD (A + B)                      |
 | 0x1 | 0001   | SUB (A - B)                      |
-| 0x2 | 0010   | DIVIDE(A / B)                      |
+| 0x2 | 0010   | DIVIDE(A / B)                    |
 | 0x3 | 0011   | MULTIPLY (A * B)                 |
 | 0x4 | 0100   | AND (A & B)                      |
-| 0x5 | 0101   | OR (A | B)                       |
+| 0x5 | 0101   | OR (A or B)                      |
 | 0x6 | 0110   | XOR (A ^ B)                      |
 | 0x7 | 0111   | NOT A (~A)                       |
 | 0x8 | 1000   | Shift Left (A << 1)              |
