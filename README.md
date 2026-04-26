@@ -66,7 +66,7 @@ nbit_alu/
 
 ## ▶️ How to Run
 
-1. Open Vivado
+1. Open Vivado/Modelsim/EDA Playground
 2. Add `alu.v` and `alu_tb.v`
 3. Run Behavioral Simulation
 4. Observe waveform outputs
