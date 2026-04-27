@@ -49,8 +49,11 @@ The ALU performs arithmetic, logical, shift, and comparison operations based on 
 
 ```text
 nbit_alu/
- ├── alu.v        # ALU design
- ├── alu_tb.v     # Testbench
+ ├── alu.v
+ ├── alu_tb.v
+ ├── RTL-Schematic-design.png
+ ├── waveform.png
+ ├── simulate.log
  └── README.md
 ```
 
@@ -63,7 +66,14 @@ nbit_alu/
 * Functional correctness validated using waveform analysis
 
 ---
+## 📷 Results
 
+### 🔹 RTL Schematic
+![RTL Schematic](RTL-Schematic-design.png)
+
+### 🔹 Simulation Waveform
+![Waveform](waveform.png)
+---
 ## ▶️ How to Run
 
 1. Open Vivado/Modelsim/EDA Playground
