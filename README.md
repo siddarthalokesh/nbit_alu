@@ -1,4 +1,4 @@
-# 🔢 N-Bit ALU Design in Verilog
+#  N-Bit ALU Design in Verilog
 
 ## 📌 Overview
 
